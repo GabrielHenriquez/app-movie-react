@@ -1,0 +1,14 @@
+.bg{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+a.linkFilm{ 
+    text-decoration: none;
+    color: #FFF;
+    background-color: rgba(0, 0, 255, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    padding: 10px 0;
+}
